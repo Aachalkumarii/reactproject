@@ -14,7 +14,7 @@ export default function AuthForm() {
             </div>
             {isLogin ? <>
             <div className='form'>
-                <h2>Login Form</h2>
+                <h2>Sign IN Form</h2>
                 <input type='email' placeholder='email' />
                 <input type='password' placeholder='password' />
                 <a href='#'>Forgot Password?</a>
